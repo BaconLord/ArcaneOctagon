@@ -1,5 +1,5 @@
 Here is highlighted the schools to which certain spells belong in this campaign
-# Necromancy Spells
+### Necromancy Spells
 	Cure Wounds
 	Healing Word
 	Blindess/Deafness
@@ -7,5 +7,17 @@ Here is highlighted the schools to which certain spells belong in this campaign
 	Mass Healing Word
 	Sylune's Viper
 	Aura of Life
-# Illusion
+	Mass Cure Wounds
+	Dirge
+	Heal
+### Illusion Spells
+	Doomtide
+### Abjuration Spells
+	Banishing Smite
+
+### Evocation Spells
+	Steelwind Strike
+
+
+
 
