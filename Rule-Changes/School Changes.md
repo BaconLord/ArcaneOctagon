@@ -18,6 +18,9 @@ Here is highlighted the schools to which certain spells belong in this campaign
 ### Evocation Spells
 	Steelwind Strike
 
+### Special
+	Wish has been removed from the Conjuration spell list and from every class's spell list.
+
 
 
 
