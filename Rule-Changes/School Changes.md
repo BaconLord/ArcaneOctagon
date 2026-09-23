@@ -10,10 +10,13 @@ Here is highlighted the schools to which certain spells belong in this campaign
 	Mass Cure Wounds
 	Dirge
 	Heal
+	Create Magen
 ### Illusion Spells
 	Doomtide
+	Maddening Darkness
 ### Abjuration Spells
 	Banishing Smite
+	Warding Wind
 
 ### Evocation Spells
 	Steelwind Strike
