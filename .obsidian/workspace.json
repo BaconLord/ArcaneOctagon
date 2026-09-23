@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cosmology/The Matrix.md",
+                "file": "Rule-Changes/School Changes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Matrix"
+              "title": "School Changes"
             }
           }
         ]
@@ -204,10 +204,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "eadcc64422652fd1",
+  "active": "ffeeedbd81e01bd3",
   "lastOpenFiles": [
-    "Cosmology/Pantheon/God of Magic, Cosmos and Flow (Dead).md",
+    "Excalidraw/Drawing 2026-09-23 12.04.26.excalidraw.md",
+    "Rule-Changes/School Changes.md",
+    "Excalidraw",
+    "Rule-Changes/Spell List Changes.md",
     "Cosmology/The Matrix.md",
+    "Cosmology/Pantheon/God of Magic, Cosmos and Flow (Dead).md",
     "Cosmology/Pantheon/God of Darkness, Cold and Treachery.md",
     "Cosmology/Pantheon/God of Life, Death and Time.md",
     "Cosmology/Pantheon/God of Land, Sea and Sky.md",
@@ -221,10 +225,8 @@
     "Cosmology/Planes of Existence/The Infinite Layer of the Abyss.md",
     "Cosmology/Planes of Existence/Shadowfell.md",
     "Cosmology/Planes of Existence/Feywild.md",
-    "Rule-Changes/Spell List Changes.md",
     "Creatures",
     "Rule-Changes/Mechanics Changes.md",
-    "Rule-Changes/School Changes.md",
     "Factions/Sovereign Factions/Holy Roman Empire.md",
     "Cosmology/Untitled.canvas",
     "Cosmology/Pantheon",
@@ -235,7 +237,6 @@
     "Rule-Changes",
     "New folder",
     "Items-and-Artifacts",
-    "Timeline",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Welcome.md"
