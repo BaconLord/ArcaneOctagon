@@ -4,16 +4,18 @@ Here are the changes to mechanics in the base game that this campaign uses.
 Changes made to the saving throws of spells. Being in a tab means that spell now uses that Ability for its saving throw instead.
 #### Strength Saving Throws
 	Conjure Elemental
-
 #### Constitution Saving Throws
 	Immolation
 #### Wisdom Saving Throws
+	Seeming
 
 #### Intelligence Saving Throws
 	Confusion
 	Crown of Madness
 	Dream
 	Hypnotic Pattern
+	Inflict Doubt
+	Maddening Darkness
 #### Charisma Saving Throws
 	Charm Monster
 	Charm person
