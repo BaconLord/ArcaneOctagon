@@ -2,6 +2,7 @@ Here is highlighted the schools to which certain spells belong in this campaign
 ### Necromancy Spells
 	Cure Wounds
 	Healing Word
+	Arcane Vigor
 	Blindess/Deafness
 	Aura of Vitality
 	Mass Healing Word
@@ -21,6 +22,10 @@ Here is highlighted the schools to which certain spells belong in this campaign
 	Steelwind Strike
 # Enchantment Spells
 	Eyebite
+# Divination Spells
+	Awaken
+# Conjuration Spells
+	Blink
 
 ### Special
 	Wish has been removed from the Conjuration spell list and is now schoolless.
