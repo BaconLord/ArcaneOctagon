@@ -1,0 +1,2 @@
+- Wish has been removed from every spell list except for the Bard's.
+- All spells of each school are available to Wizards with the respective subclass.

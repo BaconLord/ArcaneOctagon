@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a012dc8306870323",
+        "id": "91a4148fc64b1afb",
         "type": "tabs",
         "children": [
           {
-            "id": "eadcc64422652fd1",
+            "id": "9ea65403440e22c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rule-Changes/School Changes.md",
+                "file": "Rule-Changes/Mechanics Changes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "School Changes"
+              "title": "Mechanics Changes"
             }
           }
         ]
@@ -201,15 +201,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "eadcc64422652fd1",
+  "active": "9ea65403440e22c5",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-09-23 12.04.26.excalidraw.md",
-    "Rule-Changes/School Changes.md",
-    "Excalidraw",
     "Rule-Changes/Spell List Changes.md",
+    "Rule-Changes/School Changes.md",
+    "Rule-Changes/Mechanics Changes.md",
+    "Excalidraw/Drawing 2026-09-23 12.04.26.excalidraw.md",
+    "Welcome.md",
+    "Excalidraw",
     "Cosmology/The Matrix.md",
     "Cosmology/Pantheon/God of Magic, Cosmos and Flow (Dead).md",
     "Cosmology/Pantheon/God of Darkness, Cold and Treachery.md",
@@ -226,7 +229,6 @@
     "Cosmology/Planes of Existence/Shadowfell.md",
     "Cosmology/Planes of Existence/Feywild.md",
     "Creatures",
-    "Rule-Changes/Mechanics Changes.md",
     "Factions/Sovereign Factions/Holy Roman Empire.md",
     "Cosmology/Untitled.canvas",
     "Cosmology/Pantheon",
@@ -238,7 +240,6 @@
     "New folder",
     "Items-and-Artifacts",
     "Untitled.canvas",
-    "Untitled 1.canvas",
-    "Welcome.md"
+    "Untitled 1.canvas"
   ]
 }
