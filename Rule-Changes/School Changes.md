@@ -22,7 +22,7 @@ Here is highlighted the schools to which certain spells belong in this campaign
 	Steelwind Strike
 
 ### Special
-	Wish has been removed from the Conjuration spell list and from every class's spell list.
+	Wish has been removed from the Conjuration spell list and is now schoolless.
 
 
 
