@@ -17,9 +17,10 @@ Here is highlighted the schools to which certain spells belong in this campaign
 ### Abjuration Spells
 	Banishing Smite
 	Warding Wind
-
 ### Evocation Spells
 	Steelwind Strike
+# Enchantment Spells
+	Eyebite
 
 ### Special
 	Wish has been removed from the Conjuration spell list and is now schoolless.
