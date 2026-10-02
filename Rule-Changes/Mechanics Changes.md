@@ -1,6 +1,6 @@
 Here are the changes to mechanics in the base game that this campaign uses.
 
-## Saving Throws: 
+## Saving Throws
 Changes made to the saving throws of spells. Being in a tab means that spell now uses that Ability for its saving throw instead.
 #### Strength Saving Throws
 	Conjure Elemental
@@ -19,5 +19,5 @@ Changes made to the saving throws of spells. Being in a tab means that spell now
 	Dominate Monster
 	Dominate Person
 
-## Durations:
+## Durations
 **General Rule:** Every spell with an 8 hour duration and without concentration instead lasts 24 hours or until the caster's next long rest, whichever comes first.
